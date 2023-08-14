@@ -1,0 +1,13 @@
+/* ID selector */
+
+#encabezado {
+    color: greenyellow;
+}
+
+#encabezado.texto {
+    color: aquamarine;
+}
+
+.texto {
+    color: blue;
+}
