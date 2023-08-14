@@ -1,0 +1,10 @@
+/* Primera letra o primer linea */
+
+.primer-letra::first-letter {
+    color: blue;
+    font-size: 20rem;
+}
+
+.primer-linea::first-line {
+    color: green;
+}
