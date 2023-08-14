@@ -1,0 +1,5 @@
+/* Selector primer elemento despues */
+
+.admin div + p {
+    background-color: yellow;
+}
