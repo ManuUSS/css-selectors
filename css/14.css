@@ -1,0 +1,11 @@
+/* Seleccionar todos los elementos menos uno o unos */
+
+/* Unico */
+/* p:not(.texto) {
+    color: blue;
+} */
+
+/* Multiple */
+p:not(.texto):not(.oferta) {
+    color: blue;
+}
