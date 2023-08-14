@@ -1,0 +1,12 @@
+/* Selector por atributo */
+
+/* a[href="http://www.google.com"] { */
+/* [href^="http"] --- inicia con */
+/* [href$=".com"] --- finliza con  */
+a[href^="http"] {
+    color: teal;
+}
+
+input[type="tel"] {
+    border: 2px solid yellow;
+}
