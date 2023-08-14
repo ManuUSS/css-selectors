@@ -1,0 +1,9 @@
+/* Selector combinado, clase y etiqueta */
+
+div.texto {
+    background-color: yellow;
+}
+
+.texto {
+    background-color: azure;
+}
