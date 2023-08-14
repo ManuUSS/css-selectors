@@ -1,0 +1,19 @@
+/* 2 elementos */
+
+/* .texto {
+    border: 3px solid yellow;
+    padding: 2rem;
+}
+
+.oferta {
+    border: 3px solid yellow;
+    padding: 2rem;
+}    */
+
+/* Mejor manera */
+.texto,
+.oferta {
+    border: 3px solid yellow;
+    padding: 2rem;
+}
+
