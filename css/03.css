@@ -1,0 +1,19 @@
+/* Selector de n clases */
+
+.texto {
+    background-color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+.texto.azul {
+    font-size: 10;
+    background-color: inherit;
+    color: brown;
+}
