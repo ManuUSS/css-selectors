@@ -1,0 +1,7 @@
+/* Selector primer hijo */
+
+/* ul li:first-child   */
+/* ul li:first-of-type   */
+ul li:first-child  {
+    border: 2px solid yellow;
+}
